@@ -51,6 +51,9 @@
   <br/>
   <!-- Most Used Languages -->
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanzhou001&hide=HTML,Makefile&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <br/>
+  <!-- GitHub Trophies -->
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=alanzhou001&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=5" alt="github trophies" />
 </div>
 <br/><br/>
 <hr style="height:2px;border:none;color:#333;background-color:#333;" />
