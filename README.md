@@ -14,20 +14,23 @@
 
 🌱 Currently interested in econometric theory, empirical analysis, and financial econometrics, including research on company or industry valuation using machine learning and financial indicators.
 
-📫 How to contact me: 3101241412@qq.com OR alanzhou@sjtu.edu.cn OR alanzhou10086@gmail.com
+📫 How to contact me: zhoualan1@icloud.com OR alanzhou@sjtu.edu.cn OR alanzhou10086@gmail.com OR alanzhou001@outlook.com
 
 </div>
 
 
 <div align="center"> 
-  <a href="mailto:3101241412@qq.com">
-    <img src="https://img.shields.io/badge/QQmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:zhoualan1@icloud.com">
+    <img src="https://img.shields.io/badge/iCloud-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="mailto:alanzhou@sjtu.edu.cn">
     <img src="https://img.shields.io/badge/SJTUmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="mailto:alanzhou10086@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+    <a href="mailto:alanzhou001@outlook.com">
+    <img src="https://img.shields.io/badge/outlook-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
